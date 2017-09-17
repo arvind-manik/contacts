@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="flaskapi">http://8895b42a.ngrok.io</string>
+</resources>
